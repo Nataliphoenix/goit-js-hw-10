@@ -65,8 +65,7 @@ function renderMarkupCountryInfo(name) {
       })
       .join('');
          
-      }
-     
+      }    
 }
 
 function clearName(output) {
